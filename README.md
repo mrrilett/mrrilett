@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/Mr_Rilett-Henderson-blue)
+![Static Badge](https://img.shields.io/badge/Mr_Rilett-Nora_Frances_Henderson-blue)
 
 - :memo: I’m currently learning
   - [x] Stuff
