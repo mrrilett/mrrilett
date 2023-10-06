@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Static Badge](https://img.shields.io/badge/Mr_Rilett-Henderson-blue:badgeContent)
-![GitHub Repo stars](https://img.shields.io/github/stars/:mrrilett/:repo)
+![GitHub Repo stars](https://img.shields.io/github/stars/:mrrilett)
 
 - 🔭 I’m currently working on ==VERY IMPORTANT THINGS==
 - :memo: I’m currently learning
