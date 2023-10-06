@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Static Badge](https://img.shields.io/badge/Mr_Rilett-Henderson-blue:badgeContent)
 
-- 🔭 I’m currently working on ==VERY IMPORTANT THINGS==
 - :memo: I’m currently learning
   - [x] Stuff
   - [ ] More Stuff
