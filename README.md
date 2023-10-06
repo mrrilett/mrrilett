@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Static Badge](https://img.shields.io/badge/Mr_Rilett-Henderson-Blue:badgeContent)]
+![Static Badge](https://img.shields.io/badge/Mr_Rilett-Henderson-Blue:badgeContent)
 
 - :memo: I’m currently learning
   - [x] Stuff
