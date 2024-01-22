@@ -17,6 +17,6 @@ Your README.me file should include some information about yourself.
 
 :bulb: Tip: You can do anything!
 
-> Want an image? use image syntax to add your own...
+'Want an image? use image syntax to add your own...'
 ![Tux, the Linux mascot](tux.png)
 
