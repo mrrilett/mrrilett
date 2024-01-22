@@ -6,6 +6,8 @@
   - [ ] More Stuff
   - [ ] Other stuff
 
+📈 I'm trending upwards
+
 
 :warning: I’m looking to *collaborate* on ... and I’m looking for **help** with ...
 
