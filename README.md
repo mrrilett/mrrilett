@@ -5,19 +5,27 @@ To make the shield above, check out shields.io ![Static Badge](https://img.shiel
 
 Your README.me file should include some information about yourself. 
 :memo: What do you consider yourself?
-  - [x] I'm a Web Developper
-  - [ ] I'm a Software Developper
-  - [ ] I'm a Computer Engineer
+   - [x] I'm a Web Developper
+   - [ ] I'm a Software Developper
+   - [ ] I'm a Computer Engineer
 
 > Include some graphics to improve the overall look of your page by typing a colon (:) followed by your desired image.
 🤡🥶🤠
 
 
+---
+
 :warning: Are you looking to *collaborate* on specific projects below? or are you looking for **help** with a specific repository?
 
 :bulb: Tip: You can do anything!
 
-`Want an image? use image syntax to add your own...`
+
+---
+`Want an image? 
+use image syntax to 
+add 
+your 
+own...`
 
 ![Tux, the Linux mascot](tux.png)
 
