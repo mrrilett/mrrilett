@@ -3,15 +3,17 @@
 
 To make the shield above, check out shields.io ![Static Badge](https://img.shields.io/badge/to%20make%20anything%20you%20would%20like!-8A2BE2)
 
-:memo: I’m currently learning
-  - [x] Stuff
-  - [ ] More Stuff
-  - [ ] Other stuff
+Your README.me file should include some information about yourself. 
+:memo: What do you consider yourself?
+  - [x] I'm a Web Developper
+  - [ ] I'm a Software Developper
+  - [ ] I'm a Computer Engineer
 
-📈 I'm trending upwards
+> Include some graphics to improve the overall look of your page by typing a colon (:) followed by your desired image.
+🤡🥶🤠
 
 
-:warning: I’m looking to *collaborate* on ... and I’m looking for **help** with ...
+:warning: Are you looking to *collaborate* on specific projects below? or are you looking for **help** with a specific repository?
 
 :bulb: Tip: You can do anything!
 
