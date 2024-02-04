@@ -24,9 +24,9 @@ Your README.me file should include some information about yourself.
 ---
 `Want an image? 
 use image syntax to 
-add 
-your 
-own...`
+add
+your
+own...'
 
 ![Tux, the Linux mascot](tux.png)
 
