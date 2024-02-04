@@ -4,7 +4,8 @@
 To make the shield above, check out shields.io ![Static Badge](https://img.shields.io/badge/to%20make%20anything%20you%20would%20like!-8A2BE2)
 
 Your README.me file should include some information about yourself. 
-:memo: What do you consider yourself?
+
+📝 What do you consider yourself?
    - [x] I'm a Web Developper
    - [ ] I'm a Software Developper
    - [ ] I'm a Computer Engineer
